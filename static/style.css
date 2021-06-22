@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+}
+
+.button {
+    padding-top: 20px;
+}
+
+.bigger-buttons {
+    padding: 10px 50px;
+    border-radius: 20px;
+}
+
+.center {
+    margin: auto;
+    padding: 10px;
+    width: fit-content;
+}
+
+.box {
+    border-radius: 5px;
+    border: 2px solid black;
+    width: fit-content;
+    padding: 10px 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
